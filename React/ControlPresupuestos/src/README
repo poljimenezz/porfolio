@@ -1,0 +1,10 @@
+Este fue mi segundo proyecto usando react, se trata de una aplicación que dado un presupuesto inicial, puedes ir añadiendo gastos y estos se van a ir restando del
+presupuesto entrado.
+
+En este proyecto he usuado varios componentes que hacen funciones concretas de la aplicación, hooks cómo useState o useEffect, validaciones,
+helpers con funciones y props.
+
+También he usado el framework de CSS Skeleton para seguir familiarizándome con él.
+
+Puedes ver el proyecto a través del siguiente enlace:
+https://nostalgic-neumann-203e95.netlify.app/
